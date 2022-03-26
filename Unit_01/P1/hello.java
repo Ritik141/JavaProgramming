@@ -1,4 +1,4 @@
-package Unit_01.Lecture1;
+package Unit_01.P1;
 public class hello {
     public static void main(String[] args) {
         System.out.println("Hello world Ritik !!");

@@ -1,4 +1,10 @@
-package Unit_01.Lecture2;
+/* Keywords in java can not be used as identifieres in Java
+-Object
+-Variable name
+-Function
+-Class
+-Etc */
+package Unit_01.P2;
 
 public class keywords {
 	public static void main(String[] args)
