@@ -4,9 +4,9 @@
 -Function
 -Class
 -Etc */
-package Unit_01.P2;
+package Unit_01;
 
-public class keywords {
+public class P2_Task_01_Keywords {
 	public static void main(String[] args)
  	{
 	  //method
