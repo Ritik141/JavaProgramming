@@ -6,7 +6,7 @@
 -Etc */
 package Unit_01;
 
-public class P2_Task_01_Keywords {
+public class P2_Task_01_KeywordsInJava {
 	public static void main(String[] args)
  	{
 	  //method
